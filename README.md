@@ -1,2 +1,2 @@
 # advent-of-code
-My solutions to the Advent of Code yearly challenges
+My solutions to the <a href="https://adventofcode.com">Advent of Code</a> yearly challenges
